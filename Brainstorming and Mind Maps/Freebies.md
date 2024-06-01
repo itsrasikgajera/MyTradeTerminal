@@ -1,0 +1,1 @@
+- https://jobhacks.notion.site/jobhacks/50-Non-generic-real-world-problem-statements-for-building-your-UX-portfolio-46f5d3a1481d4d12970bb55c5880ce62

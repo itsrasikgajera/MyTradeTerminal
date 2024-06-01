@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "0ed672f0ab3fc698",
+    "type": "split",
+    "children": [
+      {
+        "id": "e64bbe9c409ee823",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46757013c15c287f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "138a4d65b2c7c28f",
+    "type": "split",
+    "children": [
+      {
+        "id": "949428f576023e26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0d0de8d204402c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f7369963fb607850",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4597f507716acab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "71437e86c3f8747f",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eda2bf44088f24e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "18b9429bdb544c25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56287ac463ed75dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1a6970490954ee0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3e922906f5b4576",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "34904c13541b04df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "46757013c15c287f",
+  "lastOpenFiles": [
+    "Brainstorming and Mind Maps/Glorius GS App/User Research/How to conduct user interview and how take notes and record them and Make report out of it..md",
+    "Projects/Ankit Ghadiya/Total Work from 3-Jan-2024.md",
+    "Projects/Integrella/Brochure/Email Templates.md",
+    "Daily Notes/Untitled.md",
+    "Brainstorming and Mind Maps/Glorius GS App/Glorius GS App.md",
+    "Brainstorming and Mind Maps/Glorius GS App/User Research/Secondary User Research.md",
+    "Brainstorming and Mind Maps/Glorius GS App/User Research/Cold email to get user.md",
+    "Brainstorming and Mind Maps/Glorius GS App/User Research/User Research.md",
+    "Brainstorming and Mind Maps/Glorius GS App/User Research/User Research Question.md",
+    "Brainstorming and Mind Maps/Glorius GS App/User Research/Tell me about your experience as a Pregent woman What do you enjoy about it What are some challenges you face.md",
+    "Brainstorming and Mind Maps/Glorius GS App/User Research",
+    "Brainstorming and Mind Maps/Glorius GS App/Finance Structure.md",
+    "Brainstorming and Mind Maps/Glorius GS App/Emails or Messages.md",
+    "Brainstorming and Mind Maps/Glorius GS App/Business Plan Glorious App.md",
+    "Brainstorming and Mind Maps/Glorius GS App/Business Plan Full.md",
+    "Projects/Integrella/Brochure/Neil.md",
+    "Projects/Ankit Ghadiya/HRMS SaaS Application.md",
+    "Projects/Ankit Ghadiya/Candidate Comparison.md",
+    "Projects/Yogendra PanchaL/Sample Data Make Makkan.md",
+    "Projects/Yogendra PanchaL/MakeMakaan PMCS Reviews.md",
+    "Brainstorming and Mind Maps/Kudarati Kahumbo.md",
+    "Projects/Integrella/New Work Emails.md",
+    "Projects/Projects.md",
+    "Projects/Integrella/EPR Brochure/Email.md",
+    "Daily Notes/Alkesh.md",
+    "product pahe dat.md",
+    "Brainstorming and Mind Maps/Brainstorming and Mind Maps.md",
+    "Projects/Tangocard Projects",
+    "Projects/Integrella/EPR Brochure",
+    "Projects/Yogendra PanchaL",
+    "Projects/Tclues",
+    "wa.me",
+    "Projects/Tanmay Suspandan Archictect",
+    "Personal Space",
+    "Brainstorming and Mind Maps/One-Page Business Plan/Team and Resources",
+    "Brainstorming and Mind Maps/One-Page Business Plan/Revenue Model",
+    "Pasted image 20240401191441.png",
+    "Untitled.canvas",
+    "Images/Pasted image 20240319170725.png",
+    "Images/Pasted image 20240318154631.png",
+    "Images/Pasted image 20240223154143.png",
+    "Images/Pasted image 20240223154206.png",
+    "Images/Pasted image 20240223154227.png",
+    "Images/Pasted image 20240223154855.png",
+    "Images/Pasted image 20240223154751.png",
+    "Images/Pasted image 20240223154747.png",
+    "Images/Pasted image 20240223154742.png",
+    "Untitled 1.canvas"
+  ]
+}

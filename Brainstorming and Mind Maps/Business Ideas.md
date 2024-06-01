@@ -1,0 +1,6 @@
+- [ ] Ahmedabad Metro Display Ads
+- [ ] Make some AR/VR for Attract crowd in **Navratri**
+- [ ] Instagram/Snapchat Filter of effects for Specific for Navratri.
+- [ ] Make Ticketing Mobile Application
+- [ ] Video/Motion Design for Exhibitors
+- [ ] [[New Business Ideas 1]]

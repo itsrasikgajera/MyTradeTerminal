@@ -1,0 +1,3 @@
+- [ ] Buy Domain - Gopin.Tech
+- [ ] Hosting Shared or 200 GB
+- [ ] 
