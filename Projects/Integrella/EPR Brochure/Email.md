@@ -49,3 +49,39 @@ I spoke with Mr. Vipul yesterday and have arranged to come to the Integrella off
 
 Best regards,
 Rasik
+
+---
+#shaz #eprbrichure
+
+Hi Shaz,
+
+Thank you for your detailed feedback on the brochure. We appreciate the time and thought you’ve put into your comments.
+
+If you have any additional feedback to convey, we can set up a call to discuss it further. Additionally, when Marcus is in Ahmedabad, I will gather his feedback as well. We can then have a joint call to discuss and consolidate all the feedback. This way, we ensure that both your and Marcus’s insights are incorporated into the brochure.
+
+Once I have all the feedback, I will start working on the revisions to cover all the points raised.
+
+Thanks again for your valuable input.
+
+Best regards,  
+Rasik Gajera
+
+
+---
+#shaz #eprbrichure
+
+
+Hi Shaz,
+
+Thank you for your detailed feedback on the brochure. We appreciate the time and thought you’ve put into your comments.
+
+I apologize for the delay in responding; I have been busy with the NOW Wireless PoC design given by Neil and Paul over the past 20 days.
+
+If you have any additional feedback to convey, we can set up a call to discuss it further. Additionally, when Marcus is in Ahmedabad, I will gather his feedback as well. We can then have a joint call to discuss and consolidate all the feedback. This way, we ensure that both your and Marcus’s insights are incorporated into the brochure.
+
+Once I have all the feedback, I will start working on the revisions to cover all the points raised.
+
+Thanks again for your valuable input.
+
+Best regards,  
+Rasik Gajera

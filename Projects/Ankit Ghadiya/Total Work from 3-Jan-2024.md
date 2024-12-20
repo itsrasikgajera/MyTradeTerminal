@@ -27,13 +27,12 @@ Sign IN Page
 
 ---
 
-| No. | Description                                | Cost |
-| --- | ------------------------------------------ | ---- |
-| 1   | Open Position New Design - Total Screens 6 | 3000 |
-| 2   | Open Postion - Grid View - Total Screens 6 | 2000 |
-| 3   | Schedule Interview Popup - Total Screens 4 | 2000 |
-| 4   | Req. ID Detail Page - Total Screens 3      | 3000 |
-| 5   | Candidate View Page - Total Screens 6      | 6000 |
-
+| No. | Description                                | Cost |     |
+| --- | ------------------------------------------ | ---- | --- |
+| 1   | Open Position New Design - Total Screens 6 | 3000 |     |
+| 2   | Open Postion - Grid View - Total Screens 6 | 2000 |     |
+| 3   | Schedule Interview Popup - Total Screens 4 | 2000 |     |
+| 4   | Req. ID Detail Page - Total Screens 3      | 3000 |     |
+| 5   | Candidate View Page - Total Screens 6      | 6000 |     |
 
 

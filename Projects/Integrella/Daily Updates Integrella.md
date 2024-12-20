@@ -7,13 +7,13 @@
 ---
 [12/01/2024]
 
-|  |
-| ---- |
-| Mohan Kumar |
+|                  |
+| ---------------- |
+| Mohan Kumar      |
 | Pavankumar Yadav |
-|  |
-|  |
-|  |
+|                  |
+|                  |
+|                  |
 
 Hello, good morning. Regarding the Excel sheet you recently shared and the given images:
 
@@ -52,4 +52,17 @@ AI/ML : https://www.figma.com/proto/mftY8B9WWmyJGUMUz3gztf/Integrella-Website---
 - Additionally, I received new feedback and changes for images and illustrations from Shubham for the product engineering, Foundation, VLSI, EPR Integration, and About Us page banner image.
 - For the Foundation section, I obtained images from Mahima.
 - Moreover, any new development changes will be directly discussed by Shubham with deepak.
+
+
+---
+
+Hello Paul,
+
+I sincerely apologize for the delay in getting back to you. Unfortunately, I was hospitalized due to dengue fever and was unable to work during this time. I'm feeling much better now and am back to work.
+
+Please find the attached PPT with the graphics Marcus needed for the deck, along with screenshots for both sides. I’ve prioritized this and ensured that everything is in order.
+
+If there are any further updates or adjustments needed, please don't hesitate to let me know.
+
+Thank you for your understanding and patience.
 

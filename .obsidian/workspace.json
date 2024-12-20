@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e64bbe9c409ee823",
+        "id": "9af986f8758b053f",
         "type": "tabs",
         "children": [
           {
-            "id": "46757013c15c287f",
+            "id": "11a8df56497b629c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -35,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -66,7 +74,9 @@
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -96,7 +106,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -105,9 +117,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sasvat Tech Solutions/STRATEGIC BUSINESS PLAN.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from STRATEGIC BUSINESS PLAN"
             }
           },
           {
@@ -118,7 +133,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +143,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sasvat Tech Solutions/STRATEGIC BUSINESS PLAN.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of STRATEGIC BUSINESS PLAN"
             }
           }
         ]
@@ -145,49 +166,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46757013c15c287f",
+  "active": "11a8df56497b629c",
   "lastOpenFiles": [
-    "Brainstorming and Mind Maps/Glorius GS App/User Research/How to conduct user interview and how take notes and record them and Make report out of it..md",
-    "Projects/Ankit Ghadiya/Total Work from 3-Jan-2024.md",
-    "Projects/Integrella/Brochure/Email Templates.md",
-    "Daily Notes/Untitled.md",
-    "Brainstorming and Mind Maps/Glorius GS App/Glorius GS App.md",
-    "Brainstorming and Mind Maps/Glorius GS App/User Research/Secondary User Research.md",
-    "Brainstorming and Mind Maps/Glorius GS App/User Research/Cold email to get user.md",
-    "Brainstorming and Mind Maps/Glorius GS App/User Research/User Research.md",
-    "Brainstorming and Mind Maps/Glorius GS App/User Research/User Research Question.md",
-    "Brainstorming and Mind Maps/Glorius GS App/User Research/Tell me about your experience as a Pregent woman What do you enjoy about it What are some challenges you face.md",
-    "Brainstorming and Mind Maps/Glorius GS App/User Research",
-    "Brainstorming and Mind Maps/Glorius GS App/Finance Structure.md",
-    "Brainstorming and Mind Maps/Glorius GS App/Emails or Messages.md",
-    "Brainstorming and Mind Maps/Glorius GS App/Business Plan Glorious App.md",
-    "Brainstorming and Mind Maps/Glorius GS App/Business Plan Full.md",
-    "Projects/Integrella/Brochure/Neil.md",
-    "Projects/Ankit Ghadiya/HRMS SaaS Application.md",
-    "Projects/Ankit Ghadiya/Candidate Comparison.md",
-    "Projects/Yogendra PanchaL/Sample Data Make Makkan.md",
-    "Projects/Yogendra PanchaL/MakeMakaan PMCS Reviews.md",
-    "Brainstorming and Mind Maps/Kudarati Kahumbo.md",
-    "Projects/Integrella/New Work Emails.md",
+    "My Personal Detail.md",
+    "Brainstorming and Mind Maps/New Technolgies.md",
+    "Brainstorming and Mind Maps/Bi Software Utkarsh Modi FinTech/Tally API DATA Ref.md",
+    "Brainstorming and Mind Maps/Bi Software Utkarsh Modi FinTech",
+    "Brainstorming and Mind Maps/Headphone zone Tech Sra.md",
+    "Sasvat Passwords.md",
+    "Brainstorming and Mind Maps/QR Code/QR Code PM Prompt.md",
+    "Brainstorming and Mind Maps/QR Code/SasvatPromoTools.md",
+    "Brainstorming and Mind Maps/QR Code/Custom URL Shortener.md",
+    "Brainstorming and Mind Maps/QR Code/Competitor Website QR Code.md",
+    "Brainstorming and Mind Maps/QR Code/URL Shortner Chrome Extenstion.md",
+    "Brainstorming and Mind Maps/QR Code/Screenshot Website.md",
+    "Brainstorming and Mind Maps/QR Code/QR Code Generator Check List.md",
+    "Brainstorming and Mind Maps/QR Code/QR Code Generator.md",
+    "Brainstorming and Mind Maps/QR Code/One Links.md",
+    "Shivkrupa AC Sales and Service Customer DATA.md",
+    "Sasvat Tech Solutions/6 Team Building/Daily Updates Template.md",
+    "Projects/Integrella/Weekly Updates Integrella.md",
+    "Glossary_E2.pdf",
+    "Brainstorming and Mind Maps/One-Page Business Plan/Business Concept/Business Concept.md",
     "Projects/Projects.md",
-    "Projects/Integrella/EPR Brochure/Email.md",
-    "Daily Notes/Alkesh.md",
-    "product pahe dat.md",
-    "Brainstorming and Mind Maps/Brainstorming and Mind Maps.md",
-    "Projects/Tangocard Projects",
-    "Projects/Integrella/EPR Brochure",
-    "Projects/Yogendra PanchaL",
-    "Projects/Tclues",
-    "wa.me",
-    "Projects/Tanmay Suspandan Archictect",
-    "Personal Space",
-    "Brainstorming and Mind Maps/One-Page Business Plan/Team and Resources",
-    "Brainstorming and Mind Maps/One-Page Business Plan/Revenue Model",
+    "Projects/Integrella/Invoice Submit Mail.md",
+    "Brainstorming and Mind Maps/QR Code",
+    "Sasvat Tech Solutions/6 Team Building/Team Email Ideas.md",
+    "Sasvat Tech Solutions/6 Team Building/Front End Developer Offer Letter.md",
+    "Aumina.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Brainstorming and Mind Maps/CSC",
+    "Projects/iHotel/Information Architecture",
+    "Projects/iHotel",
+    "Personal Space/Health App",
     "Pasted image 20240401191441.png",
+    "Images/Pasted image 20240223154143.png",
+    "1.15_Your_communication_preferences.pdf",
+    "Sasvat Tech Solutions/Business Plan",
+    "Projects/TangoCard",
     "Untitled.canvas",
     "Images/Pasted image 20240319170725.png",
     "Images/Pasted image 20240318154631.png",
-    "Images/Pasted image 20240223154143.png",
     "Images/Pasted image 20240223154206.png",
     "Images/Pasted image 20240223154227.png",
     "Images/Pasted image 20240223154855.png",

@@ -1,4 +1,4 @@
-#30nov2023
+ #30nov2023
 
 
 Hello Marcus,  
@@ -150,3 +150,65 @@ Warm regards,
 
 Rasik Gajera
 Freelance UI/UX Designer
+
+---
+
+Here's a rephrased version in formal and simple English:
+
+Subject: Invoice for UI/UX Design Services - June 2024
+
+Dear Marcus and Vipul,
+
+Please find attached invoice number INV-014 for UI/UX design services provided in July 2024.
+
+Services provided:
+
+1. Patient Records Design Changes
+2. Morningstar Deck Requirements
+
+Total amount due: INR 30,000
+
+Kindly process this payment as soon as possible. If you have any questions or need more information, please contact me.
+
+Thank you for your business. I look forward to working with you in the future.
+
+Sincerely,
+
+Rasik Gajera
+Freelance UI/UX Designer
+Phone: +91 99096 43927
+
+---
+
+
+
+
+**Subject:** Invoice for November 2024 and Reminder for October 2024 Payment
+
+Hello Marcus and Vipul,
+
+Please find attached my invoice for design services rendered during **November 2024**.
+
+Additionally, I have also attached the previous invoice for **October 2024**, which is still pending.
+
+### Invoice Details:
+
+**November Invoice (Current):**
+
+- **Invoice Date:** 04 December 2024
+- **Invoice Number:** INV-018
+- **Amount Due:** 37,500 INR
+
+**October Invoice (Pending):**
+
+- **Invoice Date:** 13 November 2024
+- **Invoice Number:** INV-017
+- **Amount Due:** 40,000 INR
+
+If you need any additional information or have any questions regarding these invoices, please don't hesitate to contact me.
+
+Thank you for your prompt attention to this matter. I look forward to receiving confirmation of payment.
+
+Best regards,  
+Rasik Gajera  
++91 990 964 3927

@@ -205,3 +205,54 @@ I look forward to working on this project and delivering four visually appealing
 
 Best regards,
 [Your Name]
+
+---
+
+Hello Neil,
+
+I've updated all the Figma comments and included feedback from your last email. You can check out the latest version here: Figma Link Here
+
+Free to chat about it anytime before 4:30 PM UK time if you want to jump on a call.
+
+Thank You
+Rasik Gajera
+
+
+---
+
+Sure, here is the corrected version of your message:
+
+---
+
+Hello Neil,
+
+Please find the Figma link below for the updated changes on the Alerts Data Table and the addition of two new pages: "Air Quality Meter" and "All Route Maps."
+
+Figma Link
+
+Let me know if you have any questions. I will be available until 4:30 UK Time if you want to have a quick call.
+
+Thank you,
+Rasik
+
+---
+
+
+
+Hi Mansi,
+
+I've received all the credentials and files from Mahima. Please let me know which hiring post  you want to create for social media, along with the necessary details. I will send them to you ASAP.
+
+Thanks,
+Rasik Gajera
+
+
+---
+
+Hello Paul,
+
+ I would like to discuss the design changes for "Patient Records." Please let me know a convenient time for you, and I will be available at the Integrella office for a one-on-one meeting. This will help us clarify and expedite the iteration process.
+
+Additionally, starting today, you can directly message me via this email on my Teams account.
+
+Thank you.
